@@ -1,0 +1,46 @@
+article
+{
+	border: Solid 5px #000000;
+	background: #333 url(../images/fondPageB.jpg) 0 0 no-repeat ;
+}
+
+label
+{
+display: block;
+width: 70px;
+float:left;
+}
+td
+{
+    
+    border: 1px solid white;
+    
+}
+table
+{
+    border-collapse: collapse;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+td
+{
+	align:right;
+}
+.resultat
+{
+	/*border: 1px solid white;*/
+	
+	margin-right: 60%;
+	width: auto;
+	height: 250px;
+	overflow-y: auto;
+    
+}
+.vide
+{color:red;
+}
+td a
+{
+	color:green;
+}

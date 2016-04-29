@@ -1,0 +1,23 @@
+section
+{
+	display:flex;
+}
+
+article
+{
+	border: Solid 5px #000000;
+	background: #333 url(../images/fondPage.jpg) 0 0 no-repeat ;
+	background-position: center;
+	/*background-color:rgba(0, 0, 0, 0.5);*/
+	height:490px;
+	width:100%;
+	
+	border-bottom-right-radius:37px;
+	border-top-right-radius:37px;
+	border-bottom-left-radius:37px;
+	border-top-left-radius:37px;
+	
+	margin-right:28px;
+    margin-left:28px;
+	padding: 30px 25px 30px 25px;
+}

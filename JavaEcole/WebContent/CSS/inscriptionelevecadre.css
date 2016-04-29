@@ -1,0 +1,29 @@
+.eleve
+{
+	float:left;
+	
+}
+.prevenir
+{float:right;
+padding-right:50px;
+}
+
+
+label
+{
+display: block;
+width: 70px;
+float: left;
+
+}
+
+.effacer
+{
+	background-color: red;
+}
+.NiveauClasse
+{
+	color:blue;
+	font-size: 0.7em;
+	margin-left:10%;
+}
